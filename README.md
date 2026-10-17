@@ -1,16 +1,51 @@
-# React + Vite
+# DevHelper AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Your AI-Powered Frontend Development Tutor
 
-Currently, two official plugins are available:
+DevHelper AI is an AI-powered learning assistant designed to help beginners understand frontend development concepts more easily.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Whether you're learning HTML, CSS, JavaScript, or React, DevHelper AI provides explanations and examples to support your learning journey.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Ask questions about frontend development.
+- Receive AI-generated explanations.
+- Learn HTML, CSS, JavaScript, and React concepts.
+- Get beginner-friendly explanations and examples.
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- CSS
+- Node.js
+- Express.js
+- Google Gemini AI
+
+## How It Works
+
+1. Enter a frontend development question.
+2. The frontend sends the question to the backend.
+3. The backend processes the request using Google Gemini AI.
+4. The generated response is displayed on the website.
+
+## Live Demo
+
+https://oseremesamuel2-wq.github.io/devhelper-ai/
+
+## GitHub Repository
+
+https://github.com/oseremesamuel2-wq/devhelper-ai
+
+## Developer
+
+Samuel Osereme Nwagu
+
+Frontend Developer | Computer Science and Education Student
+
+## Project Goal
+
+DevHelper AI was built to explore the integration of frontend development, backend APIs, and generative AI while creating a tool that supports beginner-friendly frontend learning.
+
+Built with curiosity, creativity, and a commitment to continuous learning.
